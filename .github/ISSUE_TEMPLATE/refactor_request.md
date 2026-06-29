@@ -1,7 +1,7 @@
 ---
-name: 🧹 Refactor
+name: ♻️ Refactor
 about: 구조/가독성/성능 개선을 위한 리팩토링 이슈 템플릿
-title: "[REFACTOR] "
+title: "♻️[REFACTOR] "
 labels: "refactor"
 assignees: ""
 ---
